@@ -2,9 +2,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gav1n-cheung&left_color=green&right_color=red)
 
-![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung)
+![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=dark)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 <!--
 **gav1n-cheung/gav1n-cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
