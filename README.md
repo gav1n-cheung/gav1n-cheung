@@ -34,10 +34,8 @@
 <a href="https://github.com/gav1n-cheung">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gav1n-cheung&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gav1n_cheung&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
 </a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gav1n_cheung&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
