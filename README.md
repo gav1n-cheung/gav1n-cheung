@@ -65,7 +65,7 @@
 
 LYB的数据结构 [Data Structure](https://github.com/gav1n-cheung/DataStructure)
 
-黑马的C++ [CPP]([黑马的C++](https://github.com/gav1n-cheung/CPP_Study))
+黑马的C++ [CPP](https://github.com/gav1n-cheung/CPP_Study)
   
 乱七八糟的笔记集合 [Recording](https://github.com/gav1n-cheung/Recording)
 
