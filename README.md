@@ -2,9 +2,20 @@
 ![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&layout=compact&theme=light)](https://github.com/gav1n-cheung/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gav1n-cheung&left_color=green&right_color=red)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+
+![Windows](https://img.shields.io/badge/windows-blue?style=flat-square&logo=windows&logoColor=white)
+
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+![docker](https://img.shields.io/badge/docker-blue?style=flat-square&logo=docker&logoColor=white)
+![python](https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white)
+![cmake](https://img.shields.io/badge/cmake-blue?style=flat-square&logo=cmake&logoColor=white)
+![c++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c++&logoColor=white)
 <!--START_SECTION:waka-->
 
 ```text
