@@ -1,7 +1,7 @@
 
 ![](https://github-widgetbox.vercel.app/api/profile?username=gav1n-cheung&data=followers,repositories,stars,commits)
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">Languages & Tools & Abilities</h2>
 
 &ensp;&ensp;&nbsp;![System](https://img.shields.io/badge/System-FFFFFF?style=for-the-badge&logoColor=black)
 &ensp;&ensp;&ensp;&ensp;![Debian](https://img.shields.io/badge/debian-A81D33?style=flat-square&logo=debian&logoColor=white)
