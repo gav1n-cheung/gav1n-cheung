@@ -24,7 +24,7 @@
 ![numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 &emsp;&ensp;![Tools](https://img.shields.io/badge/IDE-FFFFFF?style=for-the-badge&logoColor=black)
-&emsp;&ensp;&emsp;&ensp;![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+&emsp;&ensp;&emsp;&ensp;&ensp![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Idea](https://img.shields.io/badge/Idea-000000?style=flat-square&logo=intellijidea&logoColor=white)
