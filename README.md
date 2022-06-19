@@ -32,8 +32,8 @@
 # Some Statistics About Me
 
 <a href="https://github.com/gav1n-cheung">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue&show_icons=true" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&theme=vue&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&theme=vue&layout=compact" />
 </a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gav1n_cheung)](https://github.com/anuraghazra/github-readme-stats)
