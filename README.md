@@ -29,7 +29,6 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&layout=compact&theme=light)](https://github.com/gav1n-cheung/github-readme-stats)
 
 <!--START_SECTION:waka-->
