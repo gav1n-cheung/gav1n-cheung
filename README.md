@@ -30,9 +30,14 @@
 ![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
 # Some Statistics About Me
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&layout=compact&theme=light)](https://github.com/gav1n-cheung/github-readme-stats)
+
+<a href="https://github.com/gav1n-cheung">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue&show_icons=true" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&theme=vue&layout=compact" />
+</a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gav1n_cheung)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
