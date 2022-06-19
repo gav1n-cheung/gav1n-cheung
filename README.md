@@ -2,20 +2,34 @@
 ![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&layout=compact&theme=light)](https://github.com/gav1n-cheung/github-readme-stats)
 
-![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-![Debian](https://img.shields.io/badge/debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+&emsp;![System](https://img.shields.io/badge/System-FFFFFF?style=for-the-badge&logoColor=black)
+&emsp;&ensp;&ensp;![Debian](https://img.shields.io/badge/debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-
 ![Windows](https://img.shields.io/badge/windows-blue?style=flat-square&logo=windows&logoColor=white)
 
+&ensp;![Language](https://img.shields.io/badge/Language-FFFFFF?style=for-the-badge&logoColor=black)
+&ensp;&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&style=flat-square&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C_Shape](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+&emsp;![Tools](https://img.shields.io/badge/Tools-FFFFFF?style=for-the-badge&logoColor=black)
+&emsp;&ensp;&ensp;&ensp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![cmake](https://img.shields.io/badge/Cmake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![vscode](https://img.shields.io/badge/VsCode-064F8C?style=flat-square&logo=visualstudiocode&logoColor=white)
+![vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![socket](https://img.shields.io/badge/Socket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-![docker](https://img.shields.io/badge/docker-blue?style=flat-square&logo=docker&logoColor=white)
-![python](https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white)
-![cmake](https://img.shields.io/badge/cmake-blue?style=flat-square&logo=cmake&logoColor=white)
-![c++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c++&logoColor=white)
+&emsp;&ensp;![Tools](https://img.shields.io/badge/IDE-FFFFFF?style=for-the-badge&logoColor=black)
+&emsp;&ensp;&emsp;&ensp;![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Idea](https://img.shields.io/badge/Idea-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
+
 <!--START_SECTION:waka-->
 
 ```text
