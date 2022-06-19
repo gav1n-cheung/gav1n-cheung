@@ -1,9 +1,11 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gav1n-cheung&left_color=green&right_color=red)
 
 <!--
 **gav1n-cheung/gav1n-cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
