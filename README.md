@@ -12,7 +12,7 @@
 ![C_Shape](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
 
 &emsp;![Tools](https://img.shields.io/badge/Tools-FFFFFF?style=for-the-badge&logoColor=black)
-&emsp;&ensp;&ensp;&ensp;![socket](https://img.shields.io/badge/Socket-010101?style=flat-square&logo=socket.io&logoColor=white)
+&emsp;&ensp;&ensp;&ensp;&nbsp;![socket](https://img.shields.io/badge/Socket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![cmake](https://img.shields.io/badge/Cmake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![vscode](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
