@@ -9,6 +9,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+C++               2 hrs 48 mins   ████████████▒░░░░░░░░░░░░   48.96 %
+Markdown          1 hr 55 mins    ████████▒░░░░░░░░░░░░░░░░   33.55 %
+CMake             28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Protocol Buffer   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Other             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
