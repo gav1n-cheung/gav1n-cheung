@@ -32,8 +32,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&layout=compact&theme=light)](https://github.com/gav1n-cheung/github-readme-stats)
 
-
-
 <!--START_SECTION:waka-->
 
 ```text
