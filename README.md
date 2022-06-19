@@ -27,6 +27,7 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Idea](https://img.shields.io/badge/Idea-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&layout=compact&theme=light)](https://github.com/gav1n-cheung/github-readme-stats)
