@@ -11,7 +11,7 @@
 ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C_Shape](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
 
-&emsp;![Tools](https://img.shields.io/badge/Tools-FFFFFF?style=for-the-badge&logoColor=black)
+&emsp;&nbsp;![Tools](https://img.shields.io/badge/Tools-FFFFFF?style=for-the-badge&logoColor=black)
 &emsp;&ensp;&ensp;&ensp;&nbsp;![socket](https://img.shields.io/badge/Socket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![cmake](https://img.shields.io/badge/Cmake-064F8C?style=flat-square&logo=cmake&logoColor=white)
@@ -21,7 +21,7 @@
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-&emsp;&ensp;![Tools](https://img.shields.io/badge/IDE-FFFFFF?style=for-the-badge&logoColor=black)
+&emsp;&ensp;&nbsp;&nbsp;![Tools](https://img.shields.io/badge/IDE-FFFFFF?style=for-the-badge&logoColor=black)
 &emsp;&ensp;&emsp;&ensp;&ensp;![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Idea](https://img.shields.io/badge/Idea-000000?style=flat-square&logo=intellijidea&logoColor=white)
