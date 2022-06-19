@@ -1,6 +1,4 @@
 ![](https://github-widgetbox.vercel.app/api/profile?username=gav1n-cheung&data=followers,repositories,stars,commits)
-![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&layout=compact&theme=light)](https://github.com/gav1n-cheung/github-readme-stats)
 
 &emsp;![System](https://img.shields.io/badge/System-FFFFFF?style=for-the-badge&logoColor=black)
 &emsp;&ensp;&ensp;![Debian](https://img.shields.io/badge/debian-A81D33?style=flat-square&logo=debian&logoColor=white)
@@ -29,6 +27,11 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Idea](https://img.shields.io/badge/Idea-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gav1n-cheung&layout=compact&theme=light)](https://github.com/gav1n-cheung/github-readme-stats)
+
+
 
 <!--START_SECTION:waka-->
 
