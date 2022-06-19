@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 &emsp;&ensp;&nbsp;&nbsp;![Tools](https://img.shields.io/badge/IDE-FFFFFF?style=for-the-badge&logoColor=black)
-&emsp;&ensp;&emsp;&ensp;&ensp;![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
+&emsp;&ensp;&emsp;&ensp;![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Idea](https://img.shields.io/badge/Idea-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
