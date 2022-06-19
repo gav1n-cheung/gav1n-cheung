@@ -44,6 +44,33 @@
 <h2 align="center">My Repositories</h2>
 
 <table><tr>
- <td valign="top">
-   自己鼓捣的一套点云采集和可视化系统 [MySQL](https://github.com/gav1n-cheung/MySQL)
-   </td>
+
+<td valign="top">
+<div align="center">
+  
+### 项目
+  
+自己鼓捣的点云项目 [MySQL](https://github.com/gav1n-cheung/MySQL)
+  
+拿来主义的ICME可视化工程 [ICME](https://github.com/gav1n-cheung/ICME)
+  
+</td>
+  
+<td valign="top">
+<div align="center">
+  
+### 学习笔记
+  
+廖雪峰的Python [Python](https://github.com/gav1n-cheung/Python_Study)
+
+LYB的数据结构 [Data Structure](https://github.com/gav1n-cheung/DataStructure)
+
+黑马的C++ [CPP]([黑马的C++](https://github.com/gav1n-cheung/CPP_Study))
+  
+乱七八糟的笔记集合 [Recording](https://github.com/gav1n-cheung/Recording)
+
+PCL笔记 [PCL](https://github.com/gav1n-cheung/PCL_Study)
+
+算法第四版的一点笔记 [Algorithms](https://github.com/gav1n-cheung/JavaProgram)
+
+</td>
