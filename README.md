@@ -1,12 +1,10 @@
-### Hi there 👋
+![](https://github-widgetbox.vercel.app/api/profile?username=gav1n-cheung&data=followers,repositories,stars,commits)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gav1n-cheung&left_color=green&right_color=red)
+![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=vue)
 
-![](https://github-readme-stats.vercel.app/api?username=gav1n-cheung&theme=dark)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-![](https://github-widgetbox.vercel.app/api/profile?username=gav1n-cheung&data=followers,repositories,stars,commits)
 
 <!--START_SECTION:waka-->
 
