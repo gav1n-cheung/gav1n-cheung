@@ -4,15 +4,17 @@
 <h2 align="center">Languages & Tools & Abilities</h2>
 
 &ensp;&ensp;&nbsp;![System](https://img.shields.io/badge/System-FFFFFF?style=for-the-badge&logoColor=black)
-&ensp;&ensp;&ensp;&ensp;![Debian](https://img.shields.io/badge/debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+&ensp;&ensp;&ensp;&ensp;![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-blue?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=windows&logoColor=white)
 
 &ensp;![Language](https://img.shields.io/badge/Language-FFFFFF?style=for-the-badge&logoColor=black)
 &ensp;&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&style=flat-square&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C_Shape](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
+![LaTex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-02749C?style=flat-square&logo=markdown&logoColor=white)
 
 &emsp;&nbsp;![Tools](https://img.shields.io/badge/Tools-FFFFFF?style=for-the-badge&logoColor=black)
 &emsp;&ensp;&ensp;&ensp;![socket](https://img.shields.io/badge/Socket-010101?style=flat-square&logo=socket.io&logoColor=white)
