@@ -35,8 +35,8 @@
 ![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
 &emsp;&ensp;![AUTO Communication](https://img.shields.io/badge/AUTO-FFFFFF?style=for-the-badge&logoColor=black)
-![CAN](https://img.shields.io/badge/CAN-#76B83F?style=flat-square&logo=clion&logoColor=white)
-![LIN](https://img.shields.io/badge/LIN-##199ED9?style=flat-square&logo=clion&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-#76B83F?style=flat-squaren)
+![LIN](https://img.shields.io/badge/LIN-##199ED9?style=flat-square)
 
 <h2 align="center">Some Statistics About Me</h2>
 
