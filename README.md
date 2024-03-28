@@ -35,7 +35,7 @@
 ![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
 &emsp;&ensp;![AUTO Communication](https://img.shields.io/badge/AUTO-FFFFFF?style=for-the-badge&logoColor=black)
-![Unity](https://img.shields.io/badge/ACM-#0085CA?style=flat-square&logo=acm&logoColor=white)
+![CAN](https://img.shields.io/badge/ACM-0085CA?style=flat-square&logo=acm&logoColor=white)
 
 <h2 align="center">Some Statistics About Me</h2>
 
