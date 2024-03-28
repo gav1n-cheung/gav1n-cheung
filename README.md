@@ -34,7 +34,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![VS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
-&emsp;&ensp;&nbsp;![AUTO Communication](https://img.shields.io/badge/AUTO-FFFFFF?style=for-the-badge&logoColor=black)
+&emsp;&ensp;![AUTO Communication](https://img.shields.io/badge/AUTO-FFFFFF?style=for-the-badge&logoColor=black)
 
 <h2 align="center">Some Statistics About Me</h2>
 
