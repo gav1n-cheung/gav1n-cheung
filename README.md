@@ -36,7 +36,7 @@
 
 &emsp;&ensp;![AUTO Communication](https://img.shields.io/badge/AUTO-FFFFFF?style=for-the-badge&logoColor=black)
 ![CAN](https://img.shields.io/badge/CAN-#76B83F?style=flat-squaren)
-![LIN](https://img.shields.io/badge/LIN-##199ED9?style=flat-square)
+![LIN](https://img.shields.io/badge/LIN-#199ED9?style=flat-squaren)
 
 <h2 align="center">Some Statistics About Me</h2>
 
