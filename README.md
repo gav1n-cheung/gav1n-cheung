@@ -57,7 +57,7 @@
 <td valign="top">
 <div align="center">
   
-### Program
+### Programs
   
 PointCloud Program [MySQL](https://github.com/gav1n-cheung/MySQL)
   
@@ -66,7 +66,7 @@ PointCloud Program [MySQL](https://github.com/gav1n-cheung/MySQL)
 <td valign="top">
 <div align="center">
   
-### 学习笔记
+### Notes
   
 Python [Python](https://github.com/gav1n-cheung/Python_Study)
 
