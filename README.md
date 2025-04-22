@@ -42,9 +42,9 @@
 ![FlexRay](https://img.shields.io/badge/FlexRay-0085CA?style=flat-square&logo=acm&logoColor=white)
 ![Modbus](https://img.shields.io/badge/Modbus-0085CA?style=flat-square&logoColor=white)
 ![AK-LAN](https://img.shields.io/badge/AKLAN-0085CA?style=flat-square&logoColor=white)
-![EtherCAT](https://img.shields.io/badge/EtherCAT-0085CA?style=flat-square&logoColor=Red)
-![S7](https://img.shields.io/badge/S7-0085CA?style=flat-square&logo=siemens&logoColor=white)
-![ProfiNet](https://img.shields.io/badge/ProfiNet-0085CA?style=flat-square&logo=siemens&logoColor=white)
+![EtherCAT](https://img.shields.io/badge/EtherCAT-E21E29?style=flat-square&logoColor=Red)
+![S7](https://img.shields.io/badge/S7-009999?style=flat-square&logo=siemens&logoColor=white)
+![ProfiNet](https://img.shields.io/badge/ProfiNet-009999?style=flat-square&logo=siemens&logoColor=white)
 ![TBS](https://img.shields.io/badge/TBS-009999?style=flat-square&logo=siemens&logoColor=white)
 ![CATS](https://img.shields.io/badge/CATS-009999?style=flat-square&logo=siemens&logoColor=white)
 
