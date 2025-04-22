@@ -11,11 +11,12 @@
 
 &ensp;![Language](https://img.shields.io/badge/Language-FFFFFF?style=for-the-badge&logoColor=black)
 &ensp;&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C_Shape](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-00008B?style=flat-square&logo=lua&logoColor=white)
 ![LaTex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-02749C?style=flat-square&logo=markdown&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-00008B?style=flat-square&logo=lua&logoColor=white)
+
 
 &emsp;&nbsp;![Tools](https://img.shields.io/badge/Tools-FFFFFF?style=for-the-badge&logoColor=black)
 &emsp;&ensp;&ensp;&ensp;![socket](https://img.shields.io/badge/Socket-010101?style=flat-square&logo=socket.io&logoColor=white)
