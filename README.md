@@ -15,7 +15,7 @@
 ![C_Shape](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
 ![LaTex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-02749C?style=flat-square&logo=markdown&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-02749C?style=flat-square&logo=lua&logoColor=#2C2D72)
+![Lua](https://img.shields.io/badge/lua-00008B?style=flat-square&logo=lua&logoColor=white)
 
 &emsp;&nbsp;![Tools](https://img.shields.io/badge/Tools-FFFFFF?style=for-the-badge&logoColor=black)
 &emsp;&ensp;&ensp;&ensp;![socket](https://img.shields.io/badge/Socket-010101?style=flat-square&logo=socket.io&logoColor=white)
